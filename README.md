@@ -38,4 +38,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 <img width="955" alt="Captura de Tela 2019-10-31 às 10 42 01" src="https://user-images.githubusercontent.com/37282140/67953909-c47ef480-fbce-11e9-942f-dbaabd8dc733.png">
 
+### bike form
+
+![image](https://user-images.githubusercontent.com/37282140/67954230-57b82a00-fbcf-11e9-9c68-00d6e66933d5.png)
 
