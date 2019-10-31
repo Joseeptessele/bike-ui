@@ -1,5 +1,7 @@
 # BikeUi
 
+An application that allow users to insert registry of bikes bought on their's store and visualize them on a table.
+The angular frontend comunicates with an api (https://github.com/Joseeptessele/bike-api) written in Java through a node proxy.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
