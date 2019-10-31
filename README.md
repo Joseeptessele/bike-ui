@@ -34,7 +34,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 <img width="1265" alt="Captura de Tela 2019-10-31 às 10 40 46" src="https://user-images.githubusercontent.com/37282140/67953656-4c183380-fbce-11e9-8022-b9d80c115445.png">
 
-### bike form 
+### user info 
 
 <img width="955" alt="Captura de Tela 2019-10-31 às 10 42 01" src="https://user-images.githubusercontent.com/37282140/67953909-c47ef480-fbce-11e9-942f-dbaabd8dc733.png">
 
