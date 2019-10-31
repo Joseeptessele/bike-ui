@@ -27,3 +27,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## The app
+
+### admin view
+
+<img width="1265" alt="Captura de Tela 2019-10-31 às 10 40 46" src="https://user-images.githubusercontent.com/37282140/67953656-4c183380-fbce-11e9-8022-b9d80c115445.png">
+
